@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["discord.gg/undo"];
+const statusMessages = ["discord.gg/undo, chilling"];
 
 
 let currentIndex = 0;
